@@ -1,0 +1,11 @@
+NCBI: https://www.ncbi.nlm.nih.gov/
+PubMed: https://pubmed.ncbi.nlm.nih.gov/
+KEGG: https://www.genome.jp/kegg/
+Reactome: https://reactome.org/
+StringDB: https://string-db.org/
+Cytoscape: https://cytoscape.org/
+HGNC: https://www.genenames.org/
+Mauve: https://darlinglab.org/mauve/mauve.html
+Arxiv paper on BioBERT: https://arxiv.org/abs/1901.08746
+Pretrained weights at https://github.com/naver/biobert-pretrained
+OMIM: https://omim.org/
