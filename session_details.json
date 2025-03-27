@@ -1,0 +1,41 @@
+[
+    {
+        "session": 1, 
+        "topics_covered": [
+            "programming & python",
+            "installation & working environment",
+            "first program",
+            "operators in python",
+            "basic data types"
+        ],
+        "assignments_given": "NONE",
+        "readings_given": [{
+            "title": "Prospects of Indole derivatives as methyl transfer inhibitors: antimicrobial resistance managers",
+            "doi": "https://doi.org/10.1186/s40360-020-00402-9"
+        }],
+        "activity": "slides, demonstration",
+        "present_students": [
+            "Balaram Lamsal",
+            "Bishal Adhikari",
+            "Anish Tamang",
+            "Sabitra Pandey",
+            "Gehendra Adhikari",
+            "Sujit Ramjan Mishra",
+            "Anju Thapa",
+            "Bibek Aryal",
+            "Samriddi Shrestha",
+            "Prekshya Bhatta",
+            "Mina Kumari Gajurel",
+            "Suprim Naga",
+            "Richa Pokharel",
+            "Bipana Malla",
+            "Shitoshma Rana",
+            "Saluna Gurung",
+            "Komil Maharjan",
+            "Smriti Sharma",
+            "Arpan Nepal",
+            "Vagya Shree Khanal",
+            "Pabitra Rai"
+        ]
+    }
+]
